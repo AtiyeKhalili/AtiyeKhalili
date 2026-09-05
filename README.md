@@ -9,4 +9,4 @@
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=AtiyeKhalili&theme=gotham&hide_border=false)
 
 ## Batteries
-![batteries](https://skillicons.dev/icons?i=django,python,vscode,vim,linux,mint)
+![batteries](https://skillicons.dev/icons?i=django,python,vscode,vim,linux,mint,z)
